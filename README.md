@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chriskennedy702
+- 👋 Hi, I’m Chris Kennedy!
 - 👀 I’m interested in healthcare/clinical data analytics.
 - 🌱 I’m currently learning mysql, R, and Tableau.
 - 💞️ I’m looking to collaborate on data analytics projects.
