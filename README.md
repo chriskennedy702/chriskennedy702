@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chris Kennedy!
-- 👀 I’m interested in healthcare/clinical data analytics.
+- 👀 I’m interested in health data analytics.
 - 🌱 I’m currently learning mysql, R, and Tableau.
 - 💞️ I’m looking to collaborate on data analytics projects.
 - 📫 cakennedy2009@gmail.com
